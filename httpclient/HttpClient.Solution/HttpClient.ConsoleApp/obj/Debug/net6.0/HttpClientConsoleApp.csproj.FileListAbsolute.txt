@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\HttpClientConsoleApp.exe
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\HttpClientConsoleApp.deps.json
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\HttpClientConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\HttpClientConsoleApp.dll
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\HttpClientConsoleApp.pdb
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.csproj.CopyComplete
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.dll
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\refint\HttpClientConsoleApp.dll
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.pdb
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\HttpClientConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\BearerToken-HttpClient-Fetch-AJAX\httpclient\HttpClient.Solution\HttpClient.ConsoleApp\obj\Debug\net6.0\ref\HttpClientConsoleApp.dll
