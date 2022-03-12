@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearerToken.API", "BearerToken.API\BearerToken.API.csproj", "{7084201E-EEF7-4AA6-B074-AFABF12C32BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7084201E-EEF7-4AA6-B074-AFABF12C32BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7084201E-EEF7-4AA6-B074-AFABF12C32BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7084201E-EEF7-4AA6-B074-AFABF12C32BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7084201E-EEF7-4AA6-B074-AFABF12C32BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA0634E6-CA45-4409-AD10-C74CDDFEE1CF}
+	EndGlobalSection
+EndGlobal

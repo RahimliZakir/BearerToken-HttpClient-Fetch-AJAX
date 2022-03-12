@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3TT4R8aJvP6RqHE/dnrGN84iWcSvZytWPZDVJ20TE7M=",
+  "Source": "BearerToken.API",
+  "BasePath": "_content/BearerToken.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
