@@ -51,6 +51,16 @@ services.AddDbContext<BearerDbContext>(options =>
     options.UseSqlServer(conf.GetConnectionString("cString"));
 });
 
+services.AddCors(options =>
+{
+    options.AddPolicy("_allowAnyOrigins", cfg =>
+    {
+        cfg.AllowAnyHeader()
+           .AllowAnyOrigin()
+           .AllowAnyMethod();
+    });
+});
+
 services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
@@ -104,6 +114,7 @@ if (env.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
+app.UseCors("_allowAnyOrigins");
 
 app.UseSwagger();
 

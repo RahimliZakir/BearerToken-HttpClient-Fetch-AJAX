@@ -1,4 +1,5 @@
 ﻿using BearerToken.API.Models.DataContexts;
+using BearerToken.API.Models.FormModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -20,10 +21,10 @@ namespace BearerToken.API.Controllers
 
         [HttpPost]
         [AllowAnonymous]
-        public IActionResult SignIn(string username, string password)
+        public IActionResult SignIn(SignInFormModel formModel)
         {
 
-            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+            if (string.IsNullOrWhiteSpace(formModel.Username) || string.IsNullOrWhiteSpace(formModel.Password))
             {
                 return Unauthorized(new
                 {
@@ -32,7 +33,7 @@ namespace BearerToken.API.Controllers
                 });
             }
 
-            if (username != "zakir" || password != "zakir007")
+            if (formModel.Username != "zakir" || formModel.Password != "zakir007")
             {
                 return Unauthorized(new
                 {
@@ -54,9 +55,9 @@ namespace BearerToken.API.Controllers
                         );
 
             var tokenStr = new JwtSecurityTokenHandler()
-                .WriteToken(token);
+                               .WriteToken(token);
 
-            if (username == "zakir" && password == "zakir007")
+            if (formModel.Username == "zakir" && formModel.Password == "zakir007")
             {
                 return Ok(new
                 {
